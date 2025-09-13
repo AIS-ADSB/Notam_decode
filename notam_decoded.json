@@ -1,55 +1,55 @@
 [
     {
-        "notam_id": "B3810/25",
-        "q_line": "RPHI/QWMLW/IV/BO/W/000/999/1238N11644E048",
-        "fir": "RPHI",
-        "code": "QWMLW",
+        "notam_id": "P3539/25",
+        "q_line": "RJJJ/QXXXX/IV/NBO/E/000/999/2306N12435E029",
+        "fir": "RJJJ",
+        "code": "QXXXX",
         "traffic": "IV",
-        "purpose": "BO",
-        "scope": "W",
+        "purpose": "NBO",
+        "scope": "E",
         "lower": "000",
         "upper": "999",
-        "location": "RPHI",
-        "start_time": "2025-08-24T18:00:00",
-        "end_time": "2025-08-27T21:00:00",
+        "location": "RJJJ",
+        "start_time": "2025-09-05T00:00:00",
+        "end_time": "2025-09-10T23:59:00",
         "geom_point": {
             "type": "Point",
             "coordinates": [
-                116.73333333333333,
-                12.633333333333333
+                124.58333333333333,
+                23.1
             ]
         },
-        "radius_nm": 48,
-        "description": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA. EST FALL AREA FOR UNBURNED DEBRIS WI: 130200N 1160300E - 132300N 1163000E - 121400N 1172500E - 115400N 1165800E - 130200N 1160300E (210NM NORTHWEST OF PUERTO PRINCESA AP)",
+        "radius_nm": 29,
+        "description": "DUE TO AN AEROSPACE FLIGHT ACTIVITY, THE FLIGHT SAFETY OF THE AIRCRAFT IN FOLLOWING AREA MAY BE AFFECTED THRU SEP 05-10 2025, DLY TIME TO BE DETERMINED  AREA: 2307N12506E-2324N12411E-2309N12405E-2251N12501E-2307N12506E  ALTITUDE: SFC-UNL  RMK/1.ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY     2.THE EXACT TIME WILL BE NOTIFIED BY FURTHER NOTAM",
         "area_polygon": {
             "type": "Polygon",
             "coordinates": [
                 [
                     [
-                        116.05,
-                        13.033333333333333
+                        125.1,
+                        23.116666666666667
                     ],
                     [
-                        116.5,
-                        13.383333333333333
+                        124.18333333333334,
+                        23.4
                     ],
                     [
-                        117.41666666666667,
-                        12.233333333333333
+                        124.08333333333333,
+                        23.15
                     ],
                     [
-                        116.96666666666667,
-                        11.9
+                        125.01666666666667,
+                        22.85
                     ],
                     [
-                        116.05,
-                        13.033333333333333
+                        125.1,
+                        23.116666666666667
                     ]
                 ]
             ]
         },
         "lower_limit": "SFC",
         "upper_limit": "UNL",
-        "remarks": ""
+        "remarks": "1.ATC WILL NOT CLEAR IFR FLT THRU THIS AREA FOR THE FLIGHT SAFETY     2.THE EXACT TIME WILL BE NOTIFIED BY FURTHER NOTAM"
     }
 ]

@@ -60,7 +60,8 @@ class NotamDecoder:
             notam_text = text[start_pos:end_pos]
             notam_id = match.group(1)
 
-            q_match = re.search(r"Q\)\s*(.+)", notam_text)
+            q_match = re.search(r"Q\)\s*(.+?)(?=\s+[A-Z]\))", notam_text)
+
             q_line = q_match.group(1) if q_match else ""
             q_line = q_line.replace(" ", "")
             parts = q_line.split("/")
