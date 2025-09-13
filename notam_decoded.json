@@ -1,0 +1,55 @@
+[
+    {
+        "notam_id": "B3810/25",
+        "q_line": "RPHI/QWMLW/IV/BO/W/000/999/1238N11644E048",
+        "fir": "RPHI",
+        "code": "QWMLW",
+        "traffic": "IV",
+        "purpose": "BO",
+        "scope": "W",
+        "lower": "000",
+        "upper": "999",
+        "location": "RPHI",
+        "start_time": "2025-08-24T18:00:00",
+        "end_time": "2025-08-27T21:00:00",
+        "geom_point": {
+            "type": "Point",
+            "coordinates": [
+                116.73333333333333,
+                12.633333333333333
+            ]
+        },
+        "radius_nm": 48,
+        "description": "SPECIAL OPS (AEROSPACE FLT ACT) WILL BE CONDUCTED BY CHINA. EST FALL AREA FOR UNBURNED DEBRIS WI: 130200N 1160300E - 132300N 1163000E - 121400N 1172500E - 115400N 1165800E - 130200N 1160300E (210NM NORTHWEST OF PUERTO PRINCESA AP)",
+        "area_polygon": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        116.05,
+                        13.033333333333333
+                    ],
+                    [
+                        116.5,
+                        13.383333333333333
+                    ],
+                    [
+                        117.41666666666667,
+                        12.233333333333333
+                    ],
+                    [
+                        116.96666666666667,
+                        11.9
+                    ],
+                    [
+                        116.05,
+                        13.033333333333333
+                    ]
+                ]
+            ]
+        },
+        "lower_limit": "SFC",
+        "upper_limit": "UNL",
+        "remarks": ""
+    }
+]
